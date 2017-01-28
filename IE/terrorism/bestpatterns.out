@@ -1,0 +1,130 @@
+noun|acc|ábyrgð|noun pp|á
+noun|dat|ábyrgð|noun pp|á
+noun|dat|aðild|noun pp|að
+noun|dat|aðild|noun pp|í
+noun|dat|áhlaup|noun pp|í
+subj|nom|aka|active
+noun|dat|ákæra|active pp|í
+noun|acc|árása|noun pp|á
+noun|acc|árása|noun pp|í
+noun|dat|árása|noun pp|í
+noun|dat|árásarmaður|noun pp|á
+noun|dat|árásarmaður|noun pp|í
+noun|dat|árásir|noun pp|á
+noun|acc|árásir|noun pp|í
+noun|dat|árásir|noun pp|í
+noun|acc|árás|noun pp|á
+noun|dat|árás|noun pp|á
+noun|dat|árás|noun pp|að
+noun|acc|árás|noun pp|í
+noun|dat|árás|noun pp|í
+noun|nom|árás|noun pp|í
+noun|dat|ár|noun pp|í
+noun|dat|bera|active pp|í
+noun|dat|borg|noun pp|í
+noun|dat|dagur|noun pp|í
+noun|dat|eiga|active pp|í
+noun|dat|falla|active pp|í
+noun|gen|fara|active pp|til
+noun|gen|ferðast|active pp|til
+noun|dat|finna|active pp|á
+noun|dat|finna|active pp|í
+noun|dat|fjöldi|noun pp|í
+noun|dat|fjölmiðli|noun pp|í
+noun|acc|flugvöllur|noun pp|í
+noun|dat|flugvöllur|noun pp|í
+noun|dat|flýja|active pp|í
+noun|acc|fólk|noun pp|í
+noun|dat|fólk|noun pp|í
+noun|dat|fórnarlamb|noun pp|í
+noun|dat|frakkland|noun pp|í
+obj|acc|fremja|active
+noun|gen|ganga|active pp|til
+obj|acc|gera|active
+noun|dat|grunur|noun pp|í
+subj|nom|handtaka|active
+noun|dat|handtaka|active pp|í
+noun|dat|hryðjuverkaárása|noun pp|í
+noun|dat|hryðjuverkaárásir|noun pp|á
+noun|dat|hryðjuverkaárásir|noun pp|í
+noun|dat|hryðjuverkaárás|noun pp|í
+noun|dat|hryðjuverka|noun pp|í
+noun|dat|hryðjuverk|noun pp|á
+noun|dat|hryðjuverk|noun pp|í
+noun|dat|húsleit|noun pp|í
+subj|nom|hvetja|active
+noun|dat|isis|noun pp|í
+noun|dat|íslendingur|noun pp|í
+noun|dat|jólamarkaður|noun pp|í
+noun|acc|kennsl|noun pp|á
+obj|acc|keyra|active
+subj|nom|keyra|active
+noun|dat|keyra|active pp|í
+noun|dat|koma|active pp|á
+noun|dat|koma|active pp|að
+noun|acc|koma|active pp|fyrir
+noun|dat|koma|active pp|í
+noun|gen|koma|active pp|til
+noun|dat|land|noun pp|í
+noun|dat|láta|active pp|á
+noun|dat|láta|active pp|í
+noun|acc|leggja|active pp|á
+subj|nom|leita|active
+noun|dat|leita|active pp|að
+noun|dat|leita|active pp|í
+noun|dat|lenda|active pp|í
+noun|dat|líf|noun pp|á
+noun|dat|líf|noun pp|í
+noun|acc|lögregla|noun pp|á
+noun|dat|lögregla|noun pp|á
+noun|acc|lögregla|noun pp|í
+noun|dat|lögregla|noun pp|í
+noun|gen|lögregla|noun pp|til
+noun|acc|lögregla|noun pp|um
+noun|acc|lögregla|noun pp|við
+noun|dat|lögregluyfirvald|noun pp|í
+subj|nom|lýsa|active
+noun|dat|maður|noun pp|á
+noun|dat|maður|noun pp|að
+noun|acc|maður|noun pp|í
+noun|dat|maður|noun pp|í
+noun|nom|maður|noun pp|í
+noun|acc|maður|noun pp|við
+noun|dat|mánuður|noun pp|að
+noun|dat|mánuður|noun pp|í
+noun|dat|myndband|noun pp|af
+noun|dat|myrða|active pp|í
+noun|dat|neyðarástand|noun pp|í
+noun|dat|ódæði|noun pp|í
+noun|dat|öryggisgæsla|noun pp|í
+noun|acc|ræða|active pp|um
+noun|dat|rannsókn|noun pp|á
+noun|dat|ríki|noun pp|í
+noun|dat|særa|active pp|í
+noun|dat|særða|active pp|í
+noun|dat|saksóknari|noun pp|í
+noun|dat|sendiherra|noun pp|í
+subj|nom|sjá|active
+noun|dat|sjá|active pp|á
+noun|dat|sjá|active pp|í
+noun|dat|skríða|active pp|í
+noun|dat|sprengda|active pp|í
+noun|dat|sprenging|noun pp|í
+noun|dat|sprengja|noun pp|á
+noun|dat|sprengja|noun pp|í
+subj|nom|sprunga|active
+noun|dat|staður|noun pp|á
+noun|dat|standa|active pp|að
+noun|dat|standa|active pp|í
+obj|dat|tengja|active
+subj|nom|tengja|active
+noun|acc|tengsl|noun pp|við
+noun|dat|vera|active pp|frá
+noun|dat|vera|active pp|í
+subj|nom|verða|active
+noun|dat|voðaverk|noun pp|í
+noun|dat|vörubíll|noun pp|í
+noun|dat|yfirvald|noun pp|á
+noun|acc|yfirvald|noun pp|í
+noun|dat|yfirvald|noun pp|í
+noun|dat|þáttur|noun pp|í
